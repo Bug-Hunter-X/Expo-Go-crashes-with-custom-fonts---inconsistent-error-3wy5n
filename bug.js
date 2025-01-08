@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Go app to test an app that uses a custom font. The app crashes or shows a blank screen instead of displaying the custom font.  The error is not clearly indicated in the console logs, making it difficult to debug.  This seems to happen inconsistently across different devices and Expo SDK versions.
